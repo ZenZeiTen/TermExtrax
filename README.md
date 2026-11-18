@@ -1,3 +1,6 @@
+> **This repository has moved.** It now lives in [ZenZeiTen/synthapps](https://github.com/ZenZeiTen/synthapps) at [`termextrax/`](https://github.com/ZenZeiTen/synthapps/tree/main/termextrax), with its full history.
+> This copy is archived: it stays here for its issues, pull requests and releases (releases made so far stay here), and it is no longer updated. Please open new issues and pull requests in synthapps.
+
 # TermExtrax
 
 A local web application for translators and localizers: align source and target
